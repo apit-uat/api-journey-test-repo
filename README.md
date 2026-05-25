@@ -1,2 +1,3 @@
-# api-journey-test-repo-4b55cc91
-Repository for end-to-end journey testing
+# api-journey-test-repo
+
+Updated README for end-to-end journey testing.
